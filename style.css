@@ -43,3 +43,17 @@
 .aloha-beer .shop-link {
   color: #EDC601;
 }
+
+/* Navbar 5: Duke's Waikiki */
+.dukes {
+  background-color: #017574;
+  color: white;
+}
+
+.dukes .nav-link {
+  color: white;
+}
+
+.dukes .order-link {
+  color: #F1A228;
+}
