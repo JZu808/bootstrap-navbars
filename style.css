@@ -1,3 +1,4 @@
+/* Navbar 1: The Boardroom */
 .boardroom {
   background-color: #133B40;
 }
@@ -11,7 +12,7 @@
 }
 
 /* Navbar 2: Morning Brew */
-.nav-item {
+.morning-brew .nav-item {
   padding-left: 1rem;
   padding-right: 1rem;
   padding-top: 2px;
@@ -23,7 +24,7 @@
   cursor: pointer !important;
 }
 
-.active {
+.morning-brew .active {
   padding-top: 0px;
   color: black;
 }
