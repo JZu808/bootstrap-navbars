@@ -34,3 +34,12 @@
   background-color: rgb(48,73,95);
   color: white;
 }
+
+/* Navbar 4: Aloha Beer */
+.aloha-beer .nav-link {
+  color: black;
+}
+
+.aloha-beer .shop-link {
+  color: #EDC601;
+}
